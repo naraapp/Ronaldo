@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "STARTAPP",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"4e20709f4f7c879d",
+      "backup_ads_intertitial":"d94dde8d495a0dca",
+      "interval_intertitial": 1,
+      "initialize_sdk":"203641893",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -38,6 +38,12 @@
       "title":"Wallpaper for Avenger | superhero background",
       "image":"https://play-lh.googleusercontent.com/ct5v8jbdkkRWbS4w8fsrqYd99-rCY1mE2yrlZanjUk43A1yHcqsxRYMyGZT5LIWw3Vk=s180-rw",
       "link":"https://play.google.com/store/apps/details?id=com.NaraApp.MurottalQuranJuz30Merdu.Offline"
+    },
+     {
+      "id":4,
+      "title":"Car Wallpaper BMW & Mercedes Benz",
+      "image":"https://play-lh.googleusercontent.com/6L3V7YFYO8kUIlmPHIF9toBGiNvcMaiTtzSlJzgJwWiibVHHdngC617khyRBLjF1tA=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.NaraApp.newcarsWallpaper.supercar"
     }
   ],
 
